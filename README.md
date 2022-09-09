@@ -1,5 +1,31 @@
 # Pt-cheat-sheet
 
+# Revision de codigo
+
+
+## retire.js
+
+Es una extension de google chrome parecida a wapalyzer que se encarga de "Scanning website for vulnerable js libraries"
+
+
+## Horusec
+
+Permite revisar codigo 
+
+> orusec is an open source tool that performs static code analysis to identify security flaws during the development process. Currently, the languages for analysis are: C#, Java, Kotlin, Python, Ruby, Golang, Terraform, Javascript, Typescript, Kubernetes, PHP, C, HTML, JSON, Dart, Elixir, Shell, Nginx, Swift. The tool has options to search for key leaks and security flaws in all files of your project, as well as in Git history. Horusec can be used by the developer through the CLI and by the DevSecOps team on CI /CD mats.
+
+> https://horusec.io/site/
+
+## Visual code grepper
+
+isual Code Grepper is an automated code security review tool that handles C/C++, Java, C#, VB and PL/SQL. It has a few features that should hopefully make it useful to anyone conducting code security reviews, particularly where time is at a premium:
+1. In addition to performing some more complex checks it also has a config file for each language that basically allows you to add any bad functions (or other text) that you want to search for.
+
+## SonarQube
+
+SonarQube es una plataforma para evaluar código fuente. Es software libre y usa diversas herramientas de análisis estático de código fuente como Checkstyle, PMD o FindBugs para obtener métricas que pueden ayudar a mejorar la calidad del código de un programa.​
+
+## 
 
 Comandos pt infra
 -------------------------------
