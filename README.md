@@ -219,3 +219,5 @@ ms-wbt-server  3389
  En comunicaciones, STP es un protocolo de red de capa 2 del modelo OSI. Su función es la de gestionar la presencia de bucles en topologías de red debido a la existencia de enlaces redundantes.
     
     
+> https://www.breachlock.com/firewall-penetration-testing-explained-breachlock/
+> https://www.datamation.com/networks/testing-switches-for-vulnerabilities/
