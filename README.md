@@ -200,3 +200,22 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap
 https://github.com/CroweCybersecurity/ad-ldap-enum
 -----------------------------------------------------------------------------------------------------------------------------
 ms-wbt-server  3389
+    
+    
+# VTP
+    
+ VTP son las siglas de VLAN Trunking Protocol, un protocolo de mensajes de nivel 2 usado para configurar y administrar VLANs en equipos Cisco
+    
+    Por ejemplo 
+    
+ Internet u otra red->VLAN------------Trunk----------VLAN2->Internet u otra red   
+    
+# Enlace Troncal 
+    
+ Es un enlace que se configura en uno o más puertos de un switch para permitir el paso del tráfico de las distintas VLANs que hemos configurado.
+    
+# Spaning Tree 
+    
+ En comunicaciones, STP es un protocolo de red de capa 2 del modelo OSI. Su función es la de gestionar la presencia de bucles en topologías de red debido a la existencia de enlaces redundantes.
+    
+    
