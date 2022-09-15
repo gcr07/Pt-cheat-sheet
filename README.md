@@ -221,3 +221,4 @@ ms-wbt-server  3389
     
 > https://www.breachlock.com/firewall-penetration-testing-explained-breachlock/
 > https://www.datamation.com/networks/testing-switches-for-vulnerabilities/
+> https://github.com/jtesta/ssh-audit
